@@ -1,0 +1,18 @@
+[project]
+name = "jsonrequest"
+version = "0.1.4"
+authors = [
+  { name="Justin Wong", email="justinryanwong@berkeley.edu" },
+]
+description = "Lightweight wrapper to make http(s) requests. POST, PATCH, and DELETE requests only support json content."
+readme = "README.md"
+requires-python = ">=3.2"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/JustinRWong/JSONRequest"
+"Bug Tracker" = "https://github.com/JustinRWong/JSONRequest/issues"

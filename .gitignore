@@ -3,3 +3,6 @@ build/*
 dist/*
 jsonrequest.egg-info
 
+# pycache files
+__pycache__/
+*.pyc
