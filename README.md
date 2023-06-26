@@ -12,7 +12,7 @@ pip install jsonrequest
 
 Then, you can use the package.
 ```python
->>> from jsonrequest.jsonrequest import RequestModel, make_request
+>>> from jsonrequest import RequestModel, make_request
 >>> r = make_request(RequestModel(endpoint="", method='GET', url='https://google.com'))
 >>> r
 <Response [200]>

@@ -1,6 +1,6 @@
 [project]
 name = "jsonrequest"
-version = "0.1.4"
+version = "0.1.7"
 authors = [
   { name="Justin Wong", email="justinryanwong@berkeley.edu" },
 ]
